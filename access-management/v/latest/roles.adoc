@@ -44,6 +44,10 @@ The user who first signs up for the Anypoint Platform organization is known as t
 
 When the Organization Owner creates a business-group, it must assign a user as the owner of it. This user holds an Administrator role within that business group by default.
 --
+[NOTE]
+--
+Access to Support Portal: If only have the Portal viewer and/or the Exchange Viewer role, you will not  have access to the organization's support portal. This also applies to accounts where the only permission associated it is Portal Viewer and/or Application Owner.
+--
 
 == Managing Roles
 
